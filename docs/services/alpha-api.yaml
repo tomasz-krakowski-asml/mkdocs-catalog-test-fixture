@@ -1,0 +1,17 @@
+title: Alpha API
+description: The core REST API service for Team Alpha.
+url: https://api.alpha.example.com
+documentation:
+  - url: https://docs.alpha.example.com/api
+    title: API Reference
+    description: Full OpenAPI spec and guides
+repository:
+  - url: https://github.com/example/alpha-api
+    title: alpha-api
+owners:
+  - Alice Chen
+  - Bob Smith
+metadata:
+  team: alpha
+  language: Python
+  status: stable

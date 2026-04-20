@@ -1,0 +1,5 @@
+site_name: Team Alpha Docs
+docs_dir: docs
+
+nav:
+  - Services: catalog.md

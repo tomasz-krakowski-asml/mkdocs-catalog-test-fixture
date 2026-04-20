@@ -1,0 +1,11 @@
+title: Alpha Worker
+description: Background job processing service for Team Alpha.
+url: https://worker.alpha.example.com
+documentation: https://docs.alpha.example.com/worker
+repository: https://github.com/example/alpha-worker
+owners:
+  - Carol Johnson
+metadata:
+  team: alpha
+  language: Go
+  status: stable
