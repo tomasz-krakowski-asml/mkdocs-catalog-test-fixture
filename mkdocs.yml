@@ -2,4 +2,6 @@ site_name: Team Alpha Docs
 docs_dir: docs
 
 nav:
-  - Services: catalog.md
+  - Main Section in remote repository:
+    - Subsection in remote repository:
+      - My remote catalog: catalog.md
