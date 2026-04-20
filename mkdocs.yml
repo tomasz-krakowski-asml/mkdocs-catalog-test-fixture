@@ -5,4 +5,4 @@ nav:
   - Main Section in remote repository:
     - Subsection in remote repository:
       - My remote catalog: catalog.md
-  - My remote catalog in nav root: catalog.md
+  - My remote catalog in nav root: catalog-root.md
